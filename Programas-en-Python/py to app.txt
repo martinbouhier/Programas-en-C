@@ -1,0 +1,10 @@
+Primero crear archivo sin extencion con el nombre app con este codigo dentro:
+	#!/bin/sh
+	python /Users/martinbouhier/Desktop/Github/klipfolio/Scripts/clientes_ar.py  # ruta del archivo a ejecutar
+
+Segundo ejecutar este comando en la temrinal
+chmod 755 app
+
+Tercero, se va a crear un archivo llamado app ejecutable que haciendole click ejecuta la terminal y el script
+
+Listooo!!!
