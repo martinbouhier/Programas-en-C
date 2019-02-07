@@ -15,7 +15,7 @@ lista = [['Nombre', 'Profesión', 'Nota']]
 for item1 in lista1[1:]:
     for item2 in lista2[1:]:
         if item2[0] == item1[0]:
-            item2.append(item1[0])
+            item2.append(item1[1])
             lista.append(item2)
 
 print lista
