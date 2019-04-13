@@ -1,0 +1,3 @@
+# Saber contraseña WIFI de cualquie red en el CMD de Windows
+
+netsh WLAN show profile name="Fibertel PEREZ 2.4GHz" key=clear
